@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Effiti
-- 🌱 I’m currently learning Rust
+- 👍 I like to use Linux, awesomewm, dmenu, zsh, @starship 🚀, vim, VSCode, DuckDuckGo, etc.
 
 <!---
 Effiti/Effiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
